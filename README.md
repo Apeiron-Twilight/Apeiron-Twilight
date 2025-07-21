@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1200" src="https://github.com/Apeiron-Twilight/media/blob/main/mainscreen.gif" />
+  <img width="1200" src="https://github.com/Apeiron-Twilight/media/blob/main/core.gif" />
 </p>
 
 <!--
